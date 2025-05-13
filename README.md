@@ -23,7 +23,6 @@ The goal of this analysis is to:
   - `Quantity Ordered`
   - `Price Each`
   - `Order Date`
-  - `Purchase Address`
 
 ## 🧰 Tools & Libraries
 
@@ -33,7 +32,6 @@ The goal of this analysis is to:
 - NumPy
 - Matplotlib
 - Seaborn
-- OS & glob (for file handling)
 
 ## 📈 Key Findings
 
