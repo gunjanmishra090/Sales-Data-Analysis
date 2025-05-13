@@ -39,3 +39,12 @@ The goal of this analysis is to:
 - **Top Performing Cities**: San Francisco, Los Angeles, and New York topped the charts.
 - **Product Bundling Insight**: Certain products were frequently bought together (e.g., iPhone & Lightning Charging Cable).
 - **Optimal Product Pricing Strategy**: High volume sales were observed at specific price points.
+
+## 📁 Project Structure
+
+```Sales_Data_Analysis/
+├── Sales_Data/                   # CSV files
+├── Sales_Data_Analysis.ipynb     # Jupyter notebook with analysis
+└── README.md                     # Documentation```
+
+
