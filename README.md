@@ -37,7 +37,7 @@ The goal of this analysis is to:
 
 - **Best Month for Sales**: December had the highest sales revenue.
 - **Top Performing Cities**: San Francisco, Los Angeles, and New York topped the charts.
-- **Product Bundling Insight**: Certain products were frequently bought together (e.g., iPhone & Lightning Charging Cable).
+- **Product Bundling Insight**: Certain products were frequently bought together (e.g., iPhone, Lightning Charging Cable).
 - **Optimal Product Pricing Strategy**: High volume sales were observed at specific price points.
 
 ## 📁 Project Structure
