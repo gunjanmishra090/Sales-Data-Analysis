@@ -10,7 +10,7 @@ The goal of this analysis is to:
 - Merge multiple datasets into a single DataFrame.
 - Extract and engineer relevant features.
 - Identify the best month for sales.
-- Analyze city-wise sales performance
+- Analyze city-wise sales performance.
 - Investigate product bundling and cross-selling opportunities
 - Visualize insights with Python libraries like Matplotlib and Seaborn
 
