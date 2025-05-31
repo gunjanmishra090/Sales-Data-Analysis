@@ -6,7 +6,7 @@ This project analyzes historical sales data to uncover trends, patterns, and ins
 
 The goal of this analysis is to:
 
-- Clean and preprocess monthly sales data
+- Clean and preprocess monthly sales data.
 - Merge multiple datasets into a single DataFrame
 - Extract and engineer relevant features
 - Identify the best month for sales
